@@ -1,0 +1,85 @@
+{
+	"article.shouldRemove": {
+		"listicles": {
+			"numOk": 40,
+			"total": 78,
+			"rate": 0.5128205128205128,
+			"failures": [
+				"33 Christmas Animations to Easily Add to Your Website",
+				"Boost Your Productivity: Essential Git Aliases to Save 20 Minutes Daily",
+				"Top 7 Featured DEV Posts of the Week",
+				"5 Use Cases When Containerization Is Absolutely Useless for You",
+				"50 ways to bring in extra cash as a developer 💰",
+				"12 Signs you might be burning out 🔥🚒",
+				"Master React With These 10 Hooks 🔥",
+				"Top 7 Featured DEV Posts of the Week",
+				"Top 7 Featured DEV Posts of the Week",
+				"Two simple rules for better and more secure code",
+				"13 reasons why Google Tutorials can be Misleading",
+				"🚀 10 books to achieve Javascript mastery 👨‍💻",
+				"44 React Frontend Interview Questions",
+				"Two things that metal music could teach us to be better Technical Program Managers.",
+				"21 AI Productivity Tools to Improve Your Workflow 🔥🚀",
+				"10 Bad Habits That Can Slow Down Your JavaScript Applications 🐌",
+				"Top 7 Featured DEV Posts of the Week",
+				"5 personality traits that will hold you back as a developer",
+				"5 steps to build an authority for you and your repository",
+				"Unlocking Git's Hidden Powers: 5 Configuration Tips",
+				"🦊 GitLab CI: 10+ Best Practices to Avoid Widespread Anti-patterns",
+				"7 Advanced CSS Selectors You Should Know",
+				"19 Developer Tools to Improve Your Workflow ⚡🚀",
+				"The 5 principles of Unit Testing",
+				"Database Review: Top Five Missing Features from Database APIs",
+				"Mastering 'useCallback' in React with TypeScript: 4 Different Use-Cases for 'useCallback'",
+				"7 Habits to Cultivate for Becoming a Better Software Engineer",
+				"10+ API Documentation Tools For Super Busy Developers 👩‍💻",
+				"12 Ruby Gems to make your Ruby coding smoother",
+				"52 Frontend Interview Questions - JavaScript",
+				"6 super nerdy podcasts & channels",
+				"5 Not-So-Typical React Libraries for an Outstanding Project",
+				"What Are the Top Three Must-have Apps on Your Phone?",
+				"7 DEVs writing quality content about your #career",
+				"3 Easy Uncommon Accessibility Techniques You Need to Know For Coding",
+				"Top 7 Featured DEV Posts from the Past Week",
+				"Top 7 Featured DEV Posts from the Past Week",
+				"Top 7 Featured DEV Posts from the Past Week"
+			]
+		},
+		"others": {
+			"numOk": 1619,
+			"total": 1625,
+			"rate": 0.9963076923076923,
+			"failures": [
+				"Can the First 5 Minutes of Your Day Set the Tone?",
+				"My Hacktoberfest 2023 Repository for Contributors",
+				"👩‍💻 Everything you need to know about Hacktoberfest 2023 (and what's happening with the free tee shirts?) ➡️",
+				"⚡👨🏾‍💻Understanding Developer personas for a more inclusive community👨‍👩‍👦",
+				"Database 101: How does migration between databases work in the real world?",
+				"📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥"
+			]
+		}
+	},
+	"isListicleLike": {
+		"listicles": {
+			"numOk": 77,
+			"total": 78,
+			"rate": 0.9871794871794872,
+			"failures": [
+				"Boost Your Productivity: Essential Git Aliases to Save 20 Minutes Daily"
+			]
+		},
+		"others": {
+			"numOk": 1619,
+			"total": 1625,
+			"rate": 0.9963076923076923,
+			"failures": [
+				"Day 2 - The 12 Days of DEV: February 2023",
+				"Day 1 - The 12 Days of DEV: January 2023",
+				"4 Approved Pull Requests in 1 Week: My Road to Hacktoberfest Success!",
+				"6 Approved Pull Request in 6 days : My Repo HacktoberFest 2023 Accepted!",
+				"The Technical Impact of the 11 Missing Days in 1972 and Its Relevance in the Linux Ecosystem",
+				"Why You Should Make a Game Engine: 5 Years as a Developer"
+			]
+		}
+	}
+}

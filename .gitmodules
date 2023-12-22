@@ -1,0 +1,4 @@
+[submodule "no_listicles"]
+	path = no_listicles
+	url = https://github.com/lionel-rowe/no_listicles
+	branch = js-ext
